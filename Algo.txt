@@ -2,7 +2,9 @@ Order a pizza
 Wait for the pizza
 Eat the pizza
 enjoy the pizza
-Tasty!
-Recycle the pizza box
-Take out the recyling
-Order another pizza
+yummy
+6a)IF pizza is not good:   
+    Call and ask for another pizza
+    Request a refund
+    Eat the pizza and don't complain
+Just enjoy the pizza the way it is and then recycle the box
